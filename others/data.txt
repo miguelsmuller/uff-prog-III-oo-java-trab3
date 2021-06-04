@@ -1,0 +1,13 @@
+ATLETISMO (M)
+100m;Usain Bolt;JAM/Jamaica;9.81;Justin Gatlin;USA/Estados Unidos;9.89;Andre De Grasse;CAN/Canadá;9.91
+200m;Usain Bolt;JAM/Jamaica;19.78;Andre De Grasse;CAN/Canadá;20.02;Christophe Lemaitre;FRA/França;20.12
+400m;Wayde van Niekerk;RSA/África do Sul;43.03;Kirani James;GRN/Granada;43.76;LaShawn Merritt;USA/Estados Unidos;43.85
+800m;David Rudisha;KEN/Quênia;1:42.15;Taoufik Makhloufi;ALG/Argélia;1:42.61;Clayton Murphy;USA/Estados Unidos;1:42.93
+1500m;Matthew Centrowitz;USA/Estados Unidos;3:50.00;Taoufik Makhloufi;ALG/Argélia;3:50.11;Nick Willis;NZL/Nova Zelândia;3:50.24
+5000m;Mo Farah;GBR/Grã-Bretanha;13:03.30;Paul Chelimo;USA/Estados Unidos;13:03.90;Hagos Gebrhiweth;ETH/Etiópia;13:04.35
+10000m;Mo Farah;GBR/Grã-Bretanha;27:05.17;Paul Tanui;KEN/Quênia;27:05.64;Tamirat Tola;ETH/Etiópia;27:06.26
+Revezamento 4x100m;Asafa Powell/Yohan Blake/Nickel Ashmeade/Usain Bolt;JAM/Jamaica;37.27;Ryota Yamagata/Shota Iizuka/Yoshihide Kiryu/Asuka Cambridge;JPN/Japão;37.60;Akeem Haynes/Aaron Brown/Brendon Rodney/Andre De Grasse;CAN/Canadá;37.64
+Revezamento 4x400m;Arman Hall/Tony McQuay/Gil Roberts/LaShawn Merritt;USA/Estados Unidos;2:57.30;Peter Matthews/Nathon Allen/Fitzroy Dunkley/Javon Francis;JAM/Jamaica;2:58.16;Alonzo Russell/Michael Mathieu/Steven Gardiner/Chris Brown;BAH/Bahamas;2:58.49
+110m com barreiras;Omar McLeod;JAM/Jamaica;13.05;Orlando Ortega;ESP/Espanha;13.17;Dimitri Bascou;FRA/França;13.24
+400m com barreiras;Kerron Clement;USA/Estados Unidos;47.73;Boniface Tumuti;KEN/Quênia;47.78;Yasmani Copello;TUR/Turquia;47.92
+3000m com obstáculos;Conseslus Kipruto;KEN/Quênia;8:03.28;Evan Jager;USA/Estados Unidos;8:04.28;Mahiedine Mekhissi-Benabbad;FRA/França;8:11.52

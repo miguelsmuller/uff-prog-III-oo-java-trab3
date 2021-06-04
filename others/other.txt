@@ -1,0 +1,2 @@
+// static private Set<Modality> lstModalidades = new TreeSet<Modality>();
+// static private ArrayList<String> matrixFile = new ArrayList<String>();

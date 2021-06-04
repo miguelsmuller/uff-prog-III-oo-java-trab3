@@ -1,0 +1,17 @@
+{
+  "editor.wordWrapColumn": 120,
+  "editor.wordWrap": "bounded",
+  "editor.minimap.enabled": false,
+
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+
+  "workbench.editor.enablePreview": false,
+
+  "files.exclude": {
+    "**/*.class": true,
+    ".vscode/": true,
+    "others/*.xlsx": true,
+  },
+}
