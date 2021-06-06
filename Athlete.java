@@ -4,7 +4,7 @@ class Athlete implements Comparable<Athlete>{
     private int ID;
     String name;
     String country;
-    Racing personalRaces;
+    //Racing personalRaces;
 
     Athlete(String strName, String strCountry){
         this.name = strName;
@@ -12,9 +12,9 @@ class Athlete implements Comparable<Athlete>{
         this.ID = hashCode();
     }
 
-    void addRacing(Race objRace){
-        personalRaces.addRacing(objRace);
-    }
+    // void addRacing(Race objRace){
+    //     personalRaces.addRacing(objRace);
+    // }
 
     @Override
     public int compareTo(Athlete another) {

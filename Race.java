@@ -5,7 +5,7 @@ abstract class Race implements Comparable<Race>, Cloneable {
     private int ID;
     Athlete athlete;
     Modality modality;
-    String raceTime;
+    private String raceTime;
 
     Race(){}
     Race(Athlete objAthlete, Modality objModality, String strRaceTime){
@@ -17,18 +17,18 @@ abstract class Race implements Comparable<Race>, Cloneable {
     }
 
     Duration getDuration(){
-        String[] arrDuration = raceTime.split(":|\\.");
+        String[] arrDuration = raceTime.split(":");
         Duration rtnDuration;
-        long p0, p1, p2;
+        Double partOfSeconds, partOfMinutes;
+        
+        partOfSeconds = Double.parseDouble(arrDuration[0]);
+        rtnDuration = Duration.ofMillis((long)(partOfSeconds*1000));
 
-        p0 = Long.parseLong(arrDuration[0]);
-	    p1 = Long.parseLong(arrDuration[1]);
-
-        rtnDuration = Duration.ofMillis((p0*1000) + p1);
-
-        if (arrDuration.length == 3 ){
-            p2 = Long.parseLong(arrDuration[2]);
-            rtnDuration = Duration.ofMillis((p0*6000) + (p1*1000)+ p2);
+        if (arrDuration.length != 1 ){ 
+            partOfMinutes = Double.parseDouble(arrDuration[0]);
+            partOfSeconds = Double.parseDouble(arrDuration[1]);
+            
+            rtnDuration = Duration.ofMillis((long)(partOfMinutes*6000) + (long)(partOfSeconds*1000));
         }
 
         return rtnDuration;
