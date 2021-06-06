@@ -1,19 +1,15 @@
 import java.time.*;
-import java.util.Objects;
 
 abstract class Race implements Comparable<Race>, Cloneable {
-    private int ID;
     Athlete athlete;
     Modality modality;
     private String raceTime;
 
-    Race(){}
     Race(Athlete objAthlete, Modality objModality, String strRaceTime){
         super();
         this.athlete = objAthlete;
         this.modality = objModality;
         this.raceTime = strRaceTime;
-        this.ID = hashCode();
     }
 
     Duration getDuration(){
@@ -36,7 +32,7 @@ abstract class Race implements Comparable<Race>, Cloneable {
 
     @Override
     public int compareTo(Race another) {
-        return (this.ID - another.ID);
+        return (this.hashCode() - another.hashCode());
     }
 
     @Override
@@ -48,24 +44,13 @@ abstract class Race implements Comparable<Race>, Cloneable {
     }
 
     @Override
-    public int hashCode() {
-        return Objects.hash(this.athlete.name + this.modality.name);
-    }
-
-    @Override
     public String toString() {
         return "Race {" +
-            "\nID=" + this.ID +
+            "\nID=" + this.hashCode() +
             "\nModality=" + this.modality.name +
             "\nAthlete {" +
-            "\nID=" + this.ID + 
             "\nName=" + this.athlete.name +
             "\nCountry=" + this.athlete.country + 
             "\n} \n";
-    }
-
-    @Override
-    public Object clone() throws CloneNotSupportedException{
-        return super.clone();
     }
 }

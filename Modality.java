@@ -1,17 +1,8 @@
 class Modality implements Comparable<Modality>{
     String name;
-    Race raceGold;
-    Race raceSilver;
-    Race raceBronze;
 
     Modality(String strName){
         name = strName;   
-    }
-
-    void setChampionRaces(Race objRaceGold, Race objRaceSilver, Race objRaceBronze){
-        raceGold = objRaceGold;
-        raceSilver = objRaceSilver;
-        raceBronze = objRaceBronze;
     }
 
     @Override
@@ -30,6 +21,7 @@ class Modality implements Comparable<Modality>{
     @Override
     public String toString() {
         return "Modality {" +
+            "\nID=" + this.hashCode() +
             "\nName=" + this.name +
             "\n} \n";
     }

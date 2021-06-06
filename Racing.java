@@ -8,6 +8,4 @@ class Racing {
     }
 
     Set<Race> getRacing() { return lstRacing; }
-
-    float calculaAlgumInfo(){ return 0; }
 }
