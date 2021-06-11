@@ -1,0 +1,17 @@
+NATAÇÃO (M)
+50m livre;Anthony Ervin;USA/Estados Unidos;21.40;Florent Manaudou;FRA/França;21.41;Nathan Adrian;USA/Estados Unidos;21.49
+100m livre;Kyle Chalmers;AUS/Austrália;47.58;Pieter Timmers;BEL/Bélgica;47.80;Nathan Adrian;USA/Estados Unidos;47.85
+200m livre;Sun Yang;CHN/China;1:44.65;Chad le Clos;RSA/África do Sul;1:45.20;Conor Dwyer;USA/Estados Unidos;1:45.23
+400m livre;Mack Horton;AUS/Austrália;3:41.55;Sun Yang;CHN/China;3:41.68;Gabriele Detti;ITA/Itália;3:43.69
+1500m livre;Gregorio Paltrinieri;ITA/Itália;14:34.57;Connor Jaeger;USA/Estados Unidos;14:39.48;Gabriele Detti;ITA/Itália;14:40.86
+100m costas;Ryan Murphy;USA/Estados Unidos;51.97;Xu Jiayu;CHN/China;52.31;David Plummer;USA/Estados Unidos;52.40
+200m costas;Ryan Murphy;USA/Estados Unidos;1:53.62;Mitch Larkin;AUS/Austrália;1:53.96;Evgeny Rylov;RUS/Rússia;1:53.97
+100m peito;Adam Peaty;GBR/Grã-Bretanha;57.13;Cameron van der Burgh;RSA/África do Sul;58.69;Cody Miller;USA/Estados Unidos;58.87
+200m peito;Dmitriy Balandin;KAZ/Cazaquistão;2:07.46;Josh Prenot;USA/Estados Unidos;2:07.53;Anton Chupkov;RUS/Rússia;2:07.70
+100m borboleta;Joseph Schooling;SIN/Singapura;50.39;Michael Phelps;USA/Estados Unidos;51.13;Chad le Clos;RSA/África do Sul;51.14
+200m borboleta;Michael Phelps;USA/Estados Unidos;1:53.36;Masato Sakai;JPN/Japão;1:53.40;Tamás Kenderesi;HUN/Hungria;1:53.62
+200m medley;Michael Phelps;USA/Estados Unidos;1:54.66;Kosuke Hagino;JPN/Japão;1:56.61;Wang Shun;CHN/China;1:57.05
+400m medley;Kosuke Hagino;JPN/Japão;4:06.05;Chase Kalisz;USA/Estados Unidos;4:06.75;Daiya Seto;JPN/Japão;4:09.71
+Revezamento 4×100m livre;Caeleb Dressel/Michael Phelps/Ryan Held/Nathan Adrian;USA/Estados Unidos;3:09.92;Mehdy Metella/Fabien Gilot/Florent Manaudou/Jérémy Stravius;FRA/França;3:10.53;James Roberts/Kyle Chalmers/James Magnussen/Cameron McEvoy;AUS/Austrália;3:11.37
+Revezamento 4×200m livre;Conor Dwyer/Townley Haas/Ryan Lochte/Michael Phelps;USA/Estados Unidos;7:00.66;Stephen Milne/Duncan Scott/Daniel Wallace/James Guy;GBR/Grã-Bretanha;7:03.13;Kosuke Hagino/Naito Ehara/Yuki Kobori/Takeshi Matsuda;JPN/Japão;7:03.50
+Revezamento 4×100m medley;Ryan Murphy/Cody Miller/Michael Phelps/Nathan Adrian;USA/Estados Unidos;3:27.95;Chris Walker/Hebborn/Adam Peaty/James Guy-Duncan Scott;GBR/Grã-Bretanha;3:29.24;Mitch Larkin/Jake Packard/David Morgan/Kyle Chalmers;AUS/Austrália;3:29.93
